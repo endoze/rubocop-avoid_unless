@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "release-type": "ruby",
+  "packages": {
+    ".": {
+      "package-name": "rubocop-avoid_unless",
+      "version-file": "lib/rubocop/avoid_unless/version.rb",
+      "changelog-path": "CHANGELOG.md"
+    }
+  }
+}
