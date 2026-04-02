@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
     "an inverse or negated condition."
   spec.homepage = "https://github.com/endoze/rubocop-avoid_unless"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.1"
+  spec.required_ruby_version = ">= 3.2"
 
   spec.files = Dir["lib/**/*", "config/**/*", "LICENSE.txt"]
   spec.require_paths = ["lib"]
