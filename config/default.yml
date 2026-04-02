@@ -1,0 +1,4 @@
+Style/AvoidUnless:
+  Description: "Disallows the use of `unless`. Use `if` with an inverse or negated condition instead."
+  Enabled: true
+  VersionAdded: "0.1.0"
