@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/endoze/rubocop-avoid_unless/compare/rubocop-avoid_unless/v0.1.2...rubocop-avoid_unless/v0.1.3) (2026-04-02)
+
+
+### Bug Fixes
+
+* **build:** add bundler gem_tasks to enable release rake task ([#6](https://github.com/endoze/rubocop-avoid_unless/issues/6)) ([2750df7](https://github.com/endoze/rubocop-avoid_unless/commit/2750df745002f6bb582cdc696f6f9f57397a92c5))
+
 ## [0.1.2](https://github.com/endoze/rubocop-avoid_unless/compare/rubocop-avoid_unless/v0.1.1...rubocop-avoid_unless/v0.1.2) (2026-04-02)
 
 
